@@ -602,11 +602,11 @@
 			]
 		},
 		"PermitInvestre.sol": {
-			"keccak256": "0xe1414c3f81672da2aa64975f4039ae9c2ad7c13a245f8970a427009f2af8cb8c",
+			"keccak256": "0x4d434fc76a0e81597e1110451eddb7856e9d24f9d33664a26a414666426c7b59",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ee5b508b7b8771ce4aa4c83fd2befe3a5ed1bd239dd79a89116e9e218191b4d7",
-				"dweb:/ipfs/QmYCZukJVDLWifRdcvw4z9maGt3L7WDoiy6oUFcGT39g4o"
+				"bzz-raw://1cce7fbf7f400ea9af4924103ff66822c3e095561a891403607fc6ec46be54b4",
+				"dweb:/ipfs/QmVWS6N5VRWrnFTYJbiXmLc2epvoZoakHPhd95zRRnxUxD"
 			]
 		}
 	},
